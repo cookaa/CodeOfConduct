@@ -48,7 +48,7 @@ Allegheny's honor code for all submitted work.
 * Unacceptable Conduct (U):
   * Members shall not
     * :heavy_exclamation_mark: TODO: add items in the U category for attendance.
-    
+
 #### Deadlines
 
 * Acceptable Conduct (A):
@@ -99,7 +99,7 @@ Every team member needs to be actively and cooperatively involved with the proje
     * Have an inappropriate professional boundary with team members.
     * Show poor participation and attitude to their delegated tasks.
     * :heavy_exclamation_mark: TODO: add any additional items in the U category for participation.
-    
+
 ### Decisions
 
 The majority of individuals in a team should agree on a given decision before the
@@ -148,7 +148,7 @@ provide great insight in how to improve in future projects.
     * Blame other members for any issues with the final product.
     * Refuse to collaborate in fixing remaining issues while a project or lab has not been completed.
     * :heavy_exclamation_mark: TODO: add any additional items in the U category for the postmortems.
-    
+
 ### Conflicts
 
 It is inevitable that conflicts will arise when working as a large group. It is essential, however, to resolve these conflicts in a professional manner while keeping in mind the concerns of everyone involved.
@@ -189,7 +189,7 @@ guidelines. While the Honor Code involves all students in Allegheny College and
 is enforced by the college's Honor Committee, this code of conduct only
 includes members of the Software Engineering class for the spring semester of 2021..
 
-* *Infractions shall be imposed at three different levels of severity:*
+*Infractions shall be imposed at three different levels of severity:*
 
 * Level I: Any violation of a code of conduct rule is by default a Level I infraction. Technical leaders and instructor will be keeping track of infractions.
 

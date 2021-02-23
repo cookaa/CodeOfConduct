@@ -2,12 +2,13 @@
 
 ## DUE: March 9th by 8:30am
 
+[![Actions Status](https://github.com/allegheny-computer-science-203-s2021/lab01-CodeOfConduct/workflows/linting/badge.svg)](https://github.com/allegheny-computer-science-203-s2021/lab01-CodeOfConduct/actions)
+
 ## Summary
 
 This repository contains the conduct guide in [Computer Science 203 Spring
 2021](https://cs.allegheny.edu/sites/jjumadinova/teaching/203). The instructor
 and students will use this conduct guide to govern all course interactions.
-
 
 ## Improving the Conduct Guide
 
