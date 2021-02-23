@@ -1,26 +1,6 @@
 # :crocodile: Code of Conduct for CMPSC 203 Spring 2021
 
-## DUE: March 3rd by 2:50pm
-
-[![Actions Status](https://github.com/allegheny-computer-science-203-s2021/lab01-CodeOfConduct/workflows/linting/badge.svg)](https://github.com/allegheny-computer-science-203-s2021/lab01-CodeOfConduct/actions)
-
-## Table of Contents
-
-* [Summary](#summary)
-
-* [Objectives](#objectives)
-
-* [Reading Assignment](#reading-assignment)
-
-* [Creating the Code of Conduct Guide](#creating-the-code-of-conduct-guide)
-
-  + [Accessing the Repository](#accessing-the-repository)
-
-  + [Tasks](#tasks)
-
-  + [Team Work](#team-work)
-
-* [Problems](problems-with-the-conduct-guide)
+## DUE: March 9th by 8:30am
 
 ## Summary
 
