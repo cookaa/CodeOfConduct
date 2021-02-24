@@ -47,7 +47,10 @@ Allegheny's honor code for all submitted work.
 
 * Unacceptable Conduct (U):
   * Members shall not
-    * :heavy_exclamation_mark: TODO: add items in the U category for attendance.
+    * Be absent more than the allotted number of days permitted
+    * Show up late for class sessions
+    * Leave class before dismissed
+    * Disrupt with non-muted microphone when joining zoom session
 
 #### Deadlines
 
